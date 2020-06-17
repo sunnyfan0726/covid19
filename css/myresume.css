@@ -26,6 +26,7 @@ h1 .text-primary {
 .text-primary {
 	color: #6610f2!important;
 	font-size: 32px;
+	font-family: 'Noto Sans TC', sans-serif;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
