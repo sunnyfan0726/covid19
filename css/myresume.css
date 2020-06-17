@@ -18,13 +18,6 @@ h1 .text-primary {
 	line-height: 3rem;
 	text-transform:capitalize;
 }
-h2.text-primary {
-	font-size: 14px;
-	letter-spacing: -0.05rem;
-	line-height: 3rem;
-	text-transform:capitalize;
-}
-
 .bg-primary {
 	background-color: #7900c9!important;
         background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
